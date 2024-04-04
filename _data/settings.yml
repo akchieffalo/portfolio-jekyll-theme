@@ -10,7 +10,7 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Project Five',  url: 'proj-5'}
+- {name: 'About ME',  url: 'proj-5'}
 
 
 #-------------------------------
