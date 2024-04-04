@@ -3,6 +3,7 @@ layout: post
 title: 'Project Five'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus porta tortor eros, et cursus diam feugiat eu. Mauris euismod volutpat leo porttitor congue. Curabitur quis purus dignissim, sagittis enim non, interdum enim. Sed vitae nibh sed ante luctus finibus. In fermentum arcu eget volutpat blandit. Nullam leo magna, luctus ac consequat ut, ultrices quis quam. Nullam orci magna, tincidunt consequat arcu vel, facilisis hendrerit lectus. Mauris dapibus, lorem et tincidunt bibendum, massa ipsum consectetur elit, at venenatis nulla nulla id ante.
+
+Hey there! I'm Alexander Chieffalo, originally from Texas and a huge fan of NFL, NBA, and Tennis. You'll often find me cheering on my favorite teams, the Dallas Cowboys and the Dallas Mavericks. With a background in finance and data analytics, I've had the opportunity to work with companies like Eightcap and Openpayd, where I've honed my skills in risk analysis and compliance. When I'm not crunching numbers, you can catch me enjoying a game, travelling the world or playing Tennis. Let's connect and talk sports or finance—or both!
 
 {% include image.html url="http://www.gratisography.com" image="projects/proj-5/gun-pants.jpg" %}
